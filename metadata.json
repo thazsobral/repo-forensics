@@ -1,0 +1,6 @@
+{
+  "name": "repo-forensics",
+  "description": "High-density Client-Side Code & Git Repository Forensic Analysis, Secret Auditing, and Security Evaluation Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
